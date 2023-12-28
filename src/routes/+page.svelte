@@ -11,7 +11,7 @@
       </div>
       <div class="text-center">
         <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Ester Olivella Capellades</h1>
-        <p class="mt-6 text-lg leading-8 text-gray-600">Psicoanalista de infacia i adolescencia.</p>
+        <p class="mt-6 text-lg leading-8 text-gray-600">Psicoanalista d'infacia i adolescència.</p>
         <a href="mailto:esterolivellacapellades@gmail.com" class="mt-6 text-lg leading-8 text-blue-600">esterolivellacapellades@gmail.com</a>
       </div>
     </div>
